@@ -10,9 +10,7 @@ The UK Travel Guide is a web app that allows users to search and contribute itin
 
 Upon entering the app, users are able to look through itineraries which have been added by others, using filters to customise their search. In order to save their 'favourites' or add itineraries of their own to the database, they need to sign up and create a profile. Once signed in, users have full access to the app.
 
-Authentication for this is provided by XXXX.
-
-This web app is hosted on Vercel and the database is hosted on XXXX.
+This web app is hosted on Vercel and the database is hosted on Heroku.
 
 This project has been designed and created as part of [Founders and Coders](https://www.foundersandcoders.com/) Spring Bootcamp 2021 by four developers. The creative process included Figma design, user research and user testing before the final product was created.
 
@@ -54,7 +52,7 @@ This project has been designed and created as part of [Founders and Coders](http
 
 ---
 
-## Steps to run it localy
+## Steps to run it locally
 
 
 1) Create a .env file in the root folder
